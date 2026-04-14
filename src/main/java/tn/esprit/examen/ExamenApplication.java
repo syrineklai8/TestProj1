@@ -11,7 +11,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 public class ExamenApplication {
 
 	public static void main(String[] args) {
-//   SpringApplication.run(ExamenApplication.class, args);
+SpringApplication.run(ExamenApplication.class, args);
 	}
 
 }
