@@ -48,7 +48,12 @@
 		</dependency>
 
 	</dependencies>
-
+  <repositories>
+    <repository>
+      <id>private-repo</id>
+      <url>http://192.168.1.999:8081/repository/maven-releases/</url>
+    </repository>
+  </repositories>
 	<build>
 		<plugins>
 			<plugin>
