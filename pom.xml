@@ -14,7 +14,7 @@
 	<name>examen</name>
 	<description>examen</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>99</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -48,12 +48,7 @@
 		</dependency>
 
 	</dependencies>
-  <repositories>
-    <repository>
-      <id>private-repo</id>
-      <url>http://192.168.1.999:8081/repository/maven-releases/</url>
-    </repository>
-  </repositories>
+
 	<build>
 		<plugins>
 			<plugin>
