@@ -14,7 +14,7 @@
 	<name>examen</name>
 	<description>examen</description>
 	<properties>
-		<java.version>99</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
